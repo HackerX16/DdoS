@@ -18,12 +18,9 @@
 
 <div class="blue-box">
       git clone https://github.com/weverton3514/DdoS.py
+
+      python3 DdoS.py
    </div>
- .blue-box {
-     background-color: lightblue;
-     padding: 10px;
-     border-radius: 5px;
-   }
 
 
    
