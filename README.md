@@ -16,10 +16,11 @@
 
 # instalação
 
-<div style="background-color: lightblue; padding: 10px; border-radius: 5px;">
-    <!-- git clone https://github.com/weverton3514/DdoS.py -->
-</div>
+<div class="blue-box">
+     // git clone https://github.com/weverton3514/DdoS.py
+   </div>
 
+   
 
 
 
