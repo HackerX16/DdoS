@@ -17,6 +17,8 @@
 # instalação
 
 <div class="blue-box">
+     Termux:
+     
       git clone https://github.com/weverton3514/DdoS.py
 
       python3 DdoS.py
