@@ -19,8 +19,8 @@
 <div class="blue-box">
      Termux:
      
-      git clone https://github.com/weverton3514/DdoS.py
-
+      git clone https://github.com/weverton3514/DdoS
+      cd DdoS
       python3 DdoS.py
    </div>
 
