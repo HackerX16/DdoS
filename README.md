@@ -1,8 +1,8 @@
-**Me apresentando**
+# Me apresentando
 
 *Olá👋 Me chamo Weverton, sou um programador de python*
 
-**Descrição**
+# Descrição
 
 🔥 Este script é uma ferramenta de ataque que utiliza múltiplas threads para realizar solicitações a uma determinada URL. Ele utiliza a biblioteca requests para enviar as solicitações HTTP e a biblioteca multiprocessing.dummy para criar um grupo de threads que executam em paralelo.
 
