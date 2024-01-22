@@ -1,6 +1,6 @@
 # Me apresentando
 
-*Olá👋 Me chamo Weverton, sou um programador de python*
+*Olá👋 Me chamo Weverton, sou um Hacker de Bem com a vida👨‍💻*
 
 # Descrição
 
