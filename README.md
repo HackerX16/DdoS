@@ -1,6 +1,6 @@
 **Me apresentando**
 
-**Olá👋 Me chamo Weverton, sou um programador de python*
+*Olá👋 Me chamo Weverton, sou um programador de python*
 
 **Descrição**
 
@@ -13,4 +13,13 @@
 🔒 Após todas as threads terminarem de executar, o grupo de threads é fechado e o script é finalizado.
 
 ℹ️ Este script é útil para testar a capacidade de um servidor em lidar com múltiplas solicitações simultâneas e pode ser usado para fins educacionais ou para avaliar a segurança de um sistema. No entanto, é importante ressaltar que a utilização inadequada ou não autorizada deste script para realizar ataques a sistemas sem consentimento prévio é estritamente proibida e ilegal.
+
+# instalação
+
+<div style="background-color: lightblue; padding: 10px; border-radius: 5px;">
+    <!-- git clone https://github.com/weverton3514/DdoS.py -->
+</div>
+
+
+
 
